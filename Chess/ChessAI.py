@@ -1,3 +1,7 @@
+'''
+This is responsible for generating all of the AI's moves
+'''
+
 import random
 
 pieceScore = {"K": 0, "Q": 9, "R": 5, "B": 3, "N": 3, "p": 1}
